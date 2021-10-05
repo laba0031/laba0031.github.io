@@ -1,0 +1,29 @@
+body {
+    color:blueviolet;
+}
+
+/* change color of all paragraphs */
+
+p {
+    color: rgb(170, 29, 140);
+}
+
+/* target child elements */
+section h1 {
+    color:crimson;
+}
+/* style a class */
+.secondary-heading{
+    color:darkcyan
+}
+/* style an id */
+#main-section {
+    color:darkorchid;
+    font-weight:bold;
+}
+
+/* LVHA */
+a:link {color: greenyellow;}
+a:visited {color: deeppink;}
+a:hover {color: forestgreen;}
+a:active {color: goldenrod;}

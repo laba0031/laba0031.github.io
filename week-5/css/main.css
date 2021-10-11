@@ -1,4 +1,4 @@
-body {
+body { /* 0,0,0,1 */
     color:blueviolet;
 }
 
@@ -9,15 +9,15 @@ p {
 }
 
 /* target child elements */
-section h1 {
+section h1 { /* 0,0,0,2 */
     color:crimson;
 }
 /* style a class */
-.secondary-heading{
+.secondary-heading{ /* 0,0,1,0*/
     color:darkcyan
 }
 /* style an id */
-#main-section {
+#main-section { /* 0,1,0,0 */
     color:darkorchid;
     font-weight:bold;
 }

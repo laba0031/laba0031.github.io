@@ -14,3 +14,7 @@ h1, footer {
     background-color: blueviolet;
 }
 
+/* changes font color of header */
+.site-title {
+    color: rgb(233, 219, 31);
+}

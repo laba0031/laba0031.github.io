@@ -8,3 +8,9 @@ h1 {
 body {
     font-size: 18px;
 }
+
+/* changes background color of footer and header */
+h1, footer {
+    background-color: blueviolet;
+}
+

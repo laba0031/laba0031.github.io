@@ -1,3 +1,10 @@
+/* centres header */
 h1 {
     text-align: center;
+}
+
+/* changes body font size */
+
+body {
+    font-size: 18px;
 }

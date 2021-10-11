@@ -27,6 +27,27 @@ ul {
     list-style-type: square;
 }
 /* odd numbers on hobby list background color change */
-li:nth-child(odd) {background: rgb(0, 0, 0)}
+li:nth-child(odd) {
+    background: rgb(0, 0, 0)
+}
 /* change font color white to photography hobby */
-li:nth-child(odd) {color: rgb(255, 255, 255);}
+li:nth-child(odd) { 
+    color: rgb(255, 255, 255);
+}
+/*LVHA colours*/
+a:link {
+    border: 2px green;
+    text-decoration: none;
+    background-color: greenyellow;
+}
+a:visited {
+    background-color: deeppink;
+}
+a:hover {
+    border: 2px rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: forestgreen;
+}
+a:active {
+    background-color: goldenrod;
+}

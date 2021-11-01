@@ -1,11 +1,42 @@
-/*matches webpage background color to example*/
-body {
+html{
+    margin: 0 15%;
+    font-family: Arial, Helvetica, sans-serif;
     background-color:#aad4cf;
 }
+/*matches webpage background color to example*/
+body {
+    background-color: #d4e9e7 ;
+}
 /* adds starfish background image and changes font to arial*/
-h1 {
+
+header {
     background-image: url("/midterm/img/lone-starfish-wide.jpg");
     background-size: cover;
-    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    height: 50vh;
+    margin: auto
+}
+   
+h1 {
     color: white;
+    text-align: center;   
+}
+
+nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center ;
+    width: 300px;
+}
+
+.vl {
+    border-left: 1px solid;
+}
+
+img{
+    float: left;
+    width: 175px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }

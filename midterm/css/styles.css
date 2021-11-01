@@ -1,3 +1,7 @@
+/*matches webpage background color to example*/
+body {
+    background-color:#aad4cf;
+}
 /* adds starfish background image and changes font to arial*/
 h1 {
     background-image: url("/midterm/img/lone-starfish-wide.jpg");

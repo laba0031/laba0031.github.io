@@ -6,4 +6,5 @@ body {
 h1 {
     background-image: url("/midterm/img/lone-starfish-wide.jpg");
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }

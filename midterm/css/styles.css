@@ -14,7 +14,7 @@ header {
     background-size: cover;
     background-position: center;
     height: 50vh;
-    margin: auto
+    margin: 0 auto
 }
    
 h1 {
@@ -40,3 +40,14 @@ img{
     padding-right: 15px;
     padding-bottom: 15px;
 }
+
+.submit{
+    width: 98%;
+}
+.message{
+    width: 98%;
+    height: 75px;
+}
+.form{
+    padding: 10px;
+    border: 1px solid;

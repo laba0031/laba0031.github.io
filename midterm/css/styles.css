@@ -1,0 +1,5 @@
+/* adds starfish background image and changes font to arial*/
+h1 {
+    background-image: url("/midterm/img/lone-starfish-wide.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
